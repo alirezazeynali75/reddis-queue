@@ -1,0 +1,9 @@
+
+*.js
+node_modules
+logs
+test
+*.json
+*.yml
+*.css
+*.html
