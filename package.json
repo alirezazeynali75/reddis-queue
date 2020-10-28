@@ -1,11 +1,13 @@
 {
-  "name": "reddis-queue",
-  "version": "1.0.0",
-  "description": "Redis client",
-  "main": "index.js",
+  "name": "@alirezazeynali/reddis-queue",
+  "version": "1.0.1",
+  "description": "Redis queue typescript",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx prettier --write .; gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
