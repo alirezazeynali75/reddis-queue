@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="357fa56e-c989-4276-9e8c-9488a92e548b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603885045291</updated>
       <workItem from="1603885046925" duration="5688000" />
-      <workItem from="1603891108757" duration="56000" />
+      <workItem from="1603891108757" duration="135000" />
+      <workItem from="1603891556397" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -96,13 +96,13 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="765" y="-844" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603887545705" />
-    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1603891032567">
+    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1603891241683">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603891032567" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1603888425939">
+    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603891241683" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1603893486537">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603888425939" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603893486537" />
   </component>
 </project>

@@ -1,8 +1,9 @@
 {
-  "name": "@alirezazeynali/reddis-queue",
-  "version": "1.0.1",
+  "name": "@alirezazeynali/redis-queue",
+  "version": "1.0.7",
   "description": "Redis queue typescript",
-  "main": "gulpfile.js",
+  "main": "./src/index.ts",
+  "types": "./build/index.d.ts",
   "directories": {
     "doc": "docs"
   },
